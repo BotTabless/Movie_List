@@ -5,7 +5,7 @@ import { Gabarito } from 'next/font/google'
 const gabarito = Gabarito({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'agam List',
+  title: 'Movie List',
   description: 'Website Film Indonesia',
 }
 
